@@ -14,3 +14,11 @@
 headerStyle: clean
 
 target: _blank # Possible options include _blank, _self, and _top
+
+quicklaunch:
+  searchDescriptions: true
+  hideInternetSearch: true
+  showSearchSuggestions: true
+  hideVisitURL: true
+
+hideVersion: true
