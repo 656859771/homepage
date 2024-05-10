@@ -2,10 +2,10 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/bookmarks
 
-- Developer:
-    - Github:
-        - abbr: GH
-          href: https://github.com/
+- Game:
+    - Adarkroom:
+        - abbr: 小黑屋
+          href: https://adarkroom.game.yinuo.ac.cn/?lang=zh_cn
 
 - Social:
     - Reddit:
