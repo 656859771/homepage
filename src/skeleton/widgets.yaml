@@ -3,10 +3,14 @@
 # https://gethomepage.dev/latest/configs/service-widgets
 
 - resources:
-    cpu: true
-    memory: true
+    cpu: false
+    memory: false
     disk: /
 
 - search:
     provider: duckduckgo
     target: _blank
+
+headerStyle: clean
+
+target: _blank # Possible options include _blank, _self, and _top
